@@ -1,0 +1,4 @@
+#unchecked {list-style-image: url(unchecked_16.png);background-color: rgb(165, 204, 219);list-style-position: inside;padding: 10px 10px 10px 30px;}
+#checked {list-style-image: url(checked_16.png);background-color: rgb(226, 226, 226);list-style-position: inside;padding: 10px 10px 10px 30px;}
+#unchecked2 {list-style-image: url(unchecked_16.png);background-color: rgb(173, 216, 229);list-style-position: inside;padding: 10px 10px 10px 30px;}
+span{color: brown; padding: 0px 0px 0px 40px;}
